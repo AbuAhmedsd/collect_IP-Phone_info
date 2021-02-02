@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-with open("cisco_9971_full2.txt") as file:
+with open("cisco_9971.txt") as file:
 	for ip_add in file:
 		if "http" in ip_add:
 		#browser = webdriver.Chrome()
