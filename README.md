@@ -12,5 +12,10 @@ That by Automate this python code:
 2- put the IP address in a link method like this for example "http://10.10.10.50/" by using MS Excel ( ="http://" & "IP address & "/")
 3- call txt file into python code file, it read links line by line
 
+Note:-
+you must add these pacakge's to your python program:
+1- requests pacakge.
+2- BeautifulSoup pacakge.
+
 
 I wish this repository helpful :)
